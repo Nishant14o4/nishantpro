@@ -1,3 +1,3 @@
 # nishantpro
 this is my first project 
-created by Nishant 
+created by Nishant singh 
